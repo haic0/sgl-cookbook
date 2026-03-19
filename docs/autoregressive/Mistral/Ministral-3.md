@@ -73,7 +73,7 @@ docker run -d -it --ipc=host --network=host --privileged \
 ```
 
 
-#### 4.2.3 Launch the server
+#### 4.2.2 Launch the server
 ```shell
 sglang serve \
   --model-path mistralai/Ministral-3-14B-Instruct-2512 \
